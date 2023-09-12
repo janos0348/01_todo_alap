@@ -1,0 +1,6 @@
+tb{
+    display: flex;
+}
+table tr th{
+    justify-content: flex-end;
+}
